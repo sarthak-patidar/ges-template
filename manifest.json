@@ -1,0 +1,21 @@
+{
+  "name": "Mad/Studio",
+  "short_name": "Mad/Studio",
+  "start_url": "",
+  "display": "minimal-ui",
+  "background_color": "#333333",
+  "description": "The human sized design studio",
+  "icons": [
+    {
+      "src": "favicon-196x196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "mstile-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    }
+  ],
+  "orientation": "portrait-primary"
+}
