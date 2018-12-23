@@ -1,0 +1,3305 @@
+{
+  "backgroundAudio": {
+    "autoplay": false,
+    "artist": "Isaac delusion",
+    "name": "The sinner",
+    "href": null,
+    "srcs": [
+      "/static/placeholder.mp3"
+    ]
+  },
+  "turnYourDevice": {
+    "en": "<span>Please rotate your device</span> <br> to portrait mode",
+    "fr": "<span>Please rotate your device</span> <br> to portrait mode"
+  },
+  "logo": {
+    "legend": {
+      "fr": "<span class=\"bold\">Fait</span> avec <span class=\"bold\">amour</span> à Paris",
+      "en": "<span class=\"bold\">Mad(e)</span> with <span class=\"bold\">love</span> in Paris"
+    },
+    "address": {
+      "text": {
+        "fr": "<span class=\"bold\">62 rue tiquetonne</span><br/> 75002 Paris",
+        "en": "<span class=\"bold\">62 rue tiquetonne</span><br/> 75002 Paris"
+      },
+      "href": "https://goo.gl/maps/XV8Ugugc7Hy"
+    },
+    "to": "/"
+  },
+  "baseLine": {
+    "text": {
+      "fr": "The <span class=\"bold\">human sized</span> design studio",
+      "en": "The <span class=\"bold\">human sized</span> design studio"
+    }
+  },
+  "menu": [
+    {
+      "text": {
+        "fr": "Nos Réalisations",
+        "en": "Our Work"
+      },
+      "to": "/works"
+    },
+    {
+      "text": {
+        "fr": "Nos Clients",
+        "en": "Our Clients"
+      },
+      "to": "/clients"
+    },
+    {
+      "text": {
+        "fr": "Nos Services",
+        "en": "Our Services"
+      },
+      "to": "/services"
+    },
+    {
+      "text": {
+        "fr": "Nos Valeurs",
+        "en": "Our Values"
+      },
+      "to": "/values"
+    },
+    {
+      "text": {
+        "fr": "Contactez Nous",
+        "en": "Contact Us"
+      },
+      "to": "/contact"
+    }
+  ],
+  "introductions": [
+    {
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/introductions/02_2048/01_Build_jensen-low-386326-unsplash.jpg"
+          ]
+        ],
+        "width": 1492,
+        "height": 3219,
+        "color": "#a88d89"
+      },
+      "text": [
+        {
+          "fr": "Créer de Belles Expériences",
+          "en": "Building Great Experiences"
+        },
+        {
+          "fr": "grâce à d'Exquises Interactions",
+          "en": "through Exquisite Interactions"
+        }
+      ],
+      "button": {
+        "text": {
+          "fr": "Nos Réalisations",
+          "en": "Our Work"
+        },
+        "to": "/works"
+      }
+    },
+    {
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/introductions/02_2048/02_Clients_taneli-lahtinen-754065-unsplash.jpg"
+          ]
+        ],
+        "width": 1478,
+        "height": 2967,
+        "color": "#f2d0af"
+      },
+      "text": [
+        {
+          "fr": "Nous sommes fous de",
+          "en": "Our clients"
+        },
+        {
+          "fr": "nos clients",
+          "en": "Mad(e) us"
+        }
+      ],
+      "items": [
+        {
+          "src": "/static/clients/accor-hotels.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/carrefour.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/hsbc.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/john-paul.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/loreal.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/pernod-ricard.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/societe-generale.svg",
+          "href": "#"
+        },
+        {
+          "src": "/static/clients/visa.svg",
+          "href": "#"
+        }
+      ],
+      "button": {
+        "text": {
+          "fr": "Nos Clients",
+          "en": "Our Clients"
+        },
+        "to": "/clients"
+      }
+    },
+    {
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/introductions/02_2048/03_Services_mountain-climbing-mountain-hike-wallpaper.jpg"
+          ]
+        ],
+        "width": 2027,
+        "height": 3765,
+        "color": "#a88d89"
+      },
+      "text": [
+        {
+          "fr": "Nous donnons vie",
+          "en": "You've got an idea"
+        },
+        {
+          "fr": "à vos idées",
+          "en": "We are the team!"
+        }
+      ],
+      "button": {
+        "text": {
+          "fr": "Nos Services",
+          "en": "Our Services"
+        },
+        "to": "/services"
+      }
+    },
+    {
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/introductions/02_2048/04_Values_riccardo-chiarini-247364-unsplash.jpg"
+          ]
+        ],
+        "width": 2224,
+        "height": 3601,
+        "color": "#f2d0af"
+      },
+      "text": [
+        {
+          "fr": "Vous êtes les suivants",
+          "en": "You're up next"
+        },
+        {
+          "fr": "Soyez fous !",
+          "en": "stay mad!"
+        }
+      ],
+      "button": {
+        "text": {
+          "fr": "Nos valeurs",
+          "en": "Our values"
+        },
+        "to": "/values"
+      }
+    }
+  ],
+  "values": [
+    {
+      "word": {
+        "fr": "The",
+        "en": "The"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">La plus grande contribution de Sean Parker pour Facebook a été d'abandonner le \"The\"</span><br/>Nous préférons le garder pour nous rappeler de rester uniques et innovants.",
+        "en": "<span class=\"bold\">The biggest contribution of Sean Parker for Facebook was to drop the \"The\"</span><br />We'd rather keep it to remind us that we’ve got to stay unique and seek disruption."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/values/02_2048/Values_01_The_ferhat-deniz-fors-753259-unsplash.jpg"
+          ]
+        ],
+        "width": 1806,
+        "height": 3683,
+        "color": "#a88d89"
+      }
+    },
+    {
+      "type": "left",
+      "word": {
+        "fr": "Human",
+        "en": "Human"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">Nous préférons nous concentrer sur l'Expérience Humaine,</span><br/>plaçant l'humain au dessus de l'utilisateur dans le but de créer une réelle valeur ajoutée.",
+        "en": "<span class=\"bold\">We'd rather focus on the Human Experience,</span><br/>putting the Human above the User with a common goal of creating true value."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/values/02_2048/Values_02_Human_peter-sjo-201640-unsplash.jpg"
+          ]
+        ],
+        "width": 2244,
+        "height": 5184,
+        "color": "#f2d0af"
+      }
+    },
+    {
+      "word": {
+        "fr": "Sized",
+        "en": "Sized"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">La taille compte</span><br />Des équipes compactes évitant le \"politiquement correct\" disant que les créateurs ne peuvent échanger avec les clients.",
+        "en": "<span class=\"bold\">Size Matters</span><br />Small and compact teams avoiding \"corporate bullshit\" saying that creators aren’t meant to talk to clients."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/values/02_2048/Values_03_Sized_josh-spires-1048517-unsplash.jpg"
+          ]
+        ],
+        "width": 1664,
+        "height": 2992,
+        "color": "#a88d89"
+      }
+    },
+    {
+      "word": {
+        "fr": "Design",
+        "en": "Design"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">Le Design n'est pas seulement de l'esthétique,</span> Le Design fait la fonction.<br />- Steve Jobs.",
+        "en": "<span class=\"bold\">Design is not just what it looks and feels like,</span> Design is how it works.<br />- Steve Jobs."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/values/02_2048/Values_04_Design_w-a-t-a-r-i-776085-unsplash.jpg"
+          ]
+        ],
+        "width": 2412,
+        "height": 4000,
+        "color": "#a88d89"
+      }
+    },
+    {
+      "word": {
+        "en": "Studio",
+        "fr": "Studio"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">100% connecté, 100% Digital,</span><br />Réaliser vos projets est notre succès.",
+        "en": "<span class=\"bold\">All connected, All digital,</span><br />Building your ideas is our success."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/values/02_2048/Values_05_Studio_jakub-gorajek-286374-unsplash.jpg"
+          ]
+        ],
+        "width": 2004,
+        "height": 3648,
+        "color": "#f2d0af"
+      }
+    }
+  ],
+  "previousWorkButton": {
+    "en": "Previous project",
+    "fr": "Projet précédent"
+  },
+  "nextWorkButton": {
+    "en": "Next project",
+    "fr": "Projet suivant"
+  },
+  "videoUnmute": {
+    "en": "Tap to unmute",
+    "fr": "Touchez pour avoir le son"
+  },
+  "activeWorks": [
+    "accor-local",
+    "garnier-skin-active",
+    "garnier-bb-light",
+    "accor-bienvenue",
+    "societe-generale",
+    "acadomia",
+    "visa-platinum",
+    "my-thalassa",
+    "down",
+    "carrefour",
+    "le-medecin"
+  ],
+  "works": [
+    {
+      "slug": "garnier-skin-active",
+      "title": {
+        "en": "Garnier Skin Active",
+        "fr": "Garnier Skin Active"
+      },
+      "subtitle": {
+        "fr": "Le challenge #SkinActive",
+        "en": "The #SkinActive challenge"
+      },
+      "description": {
+        "title": {
+          "fr": "Une web série autour des produits de la gamme Skin Active par Garnier où, chaque semaine, une influenceuse teste l'un des produits de la gamme et présente son univers et ses inspirations.",
+          "en": "Web series around the Skin Active products by Garnier where, each week, an influencer introduces one of its products through her universe and inspirations."
+        },
+        "text": {
+          "fr": "Conception et Design du site internet autour de la série et de ses épisodes. Découvrez l'épisode 2 sur Youtube et d'autres épisodes sur la chaine Garnier.",
+          "en": "Web Conception and Design around the show and its episodes. Discover episode 2 on Youtube and the other episodes on Garnier's channel."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/01_garnier-skin-active/01_2048/00_garnier-skin-active.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#fbdac0"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/01_garnier-skin-active/01_garnier-skin-active.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "Une esthétique s'inspirant de l'univers de la gamme Skin Active de Garnier mêlant produits naturels et couleurs pastel.",
+            "en": "Aesthetics inspired by the Garnier Skin Active universe where natural products meet pastel colors."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/01_garnier-skin-active/02_garnier-skin-active.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Création de Flatlays",
+            "en": "Flatlays Creation"
+          },
+          "text": {
+            "fr": "Les influenceuses ont pour mission de réaliser des créations originales dont des \"Flatlays\" qu'elles sont libres d'imaginer et de composer.",
+            "en": "Influencers have the mission to produce original creations such as \"Flatlays\" they're free to imagine and compose."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/01_garnier-skin-active/03_garnier-skin-active.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Structure de Contenu",
+            "en": "Content Structure"
+          },
+          "text": {
+            "fr": "Les épisodes se suivent et sont présentés selon la même structure incluant également une section de promotion du produit Skin Active présenté.",
+            "en": "The episodes are introduced following the same structure also including a section promoting the featured Skin Active product."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/01_garnier-skin-active/04_garnier-skin-active.jpg",
+            "width": 3000,
+            "height": 2917
+          },
+          "title": {
+            "fr": "Garnier Skin Active",
+            "en": "Garnier Skin Active"
+          },
+          "text": {
+            "fr": "Des principes actifs naturels pour une peau en pleine santé.",
+            "en": "Natural Active Ingredients for Healthy Skin."
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Garnier France",
+                  "en": "Garnier France"
+                },
+                {
+                  "fr": "NoSite",
+                  "en": "NoSite"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Illustrations",
+                  "en": "Illustrations"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2017",
+                  "en": "2017"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "accor-local",
+      "title": {
+        "en": "AccorLocal",
+        "fr": "AccorLocal"
+      },
+      "subtitle": {
+        "fr": "Profitez de l'hôtel sans y dormir",
+        "en": "Enjoy hotels without sleeping there"
+      },
+      "description": {
+        "title": {
+          "fr": "AccorLocal amène de la vie dans les hôtels du groupe AccorHotels.",
+          "en": "AccorLocal brings life to the hotels within AccorHotels group."
+        },
+        "text": {
+          "fr": "Mad/Studio a refondu l'expérience AccorLocal remettant leurs services en emphase.",
+          "en": "Mad/Studio rebuilt AccorLocal's experience placing greater emphasis on their services."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/17_accor-local/01_2048/00_accorlocal.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#c0d9fb"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/17_accor-local/01_accorlocal.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Marque",
+            "en": "Brand"
+          },
+          "text": {
+            "fr": "Le logo AccorLocal a été retravaillé et décliné pour la marque dédiée aux professionnels.",
+            "en": "The logo has been refined and balanced. A dedicated sub-brand for AccorLocal's professional services was also created."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/17_accor-local/02_accorlocal.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Charte & Design System",
+            "en": "Guidelines & Design System"
+          },
+          "text": {
+            "fr": "Un produit digital efficace a besoin d'un design system renforcant son identité graphique.",
+            "en": "A proper digital product needs a clean design system that helps reinforce the brand identity."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/17_accor-local/03_accorlocal.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "L'Expérience AccorLocal",
+            "en": "The AccorLocal Experience"
+          },
+          "text": {
+            "fr": "Une toute nouvelle façon de voir les hôtels. Les hôtels ne sont plus seulement réservés au tourisme.",
+            "en": "A brand new way to experience hotels. Hotels aren't only meant for the tourism industry anymore."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/17_accor-local/04_accorlocal.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "AccorLocal Partenaires",
+            "en": "AccorLocal Partners"
+          },
+          "text": {
+            "fr": "AccorLocal sélectionne et importe dans les hôtels des offres et des services qui créent une réelle valeur pour les habitants autour des hôtels.",
+            "en": "AccorLocal curates offers and services they bring to the hotels, anything that creates true value to the hotels' neighborhoods."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/17_accor-local/05_accorlocal.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "AccorLocal pour les Professionnels",
+            "en": "AccorLocal for Businesses"
+          },
+          "text": {
+            "fr": "AccorLocal permet également aux professionnels d'accéder facilement aux salles de réunion, salles de sports, etc... des hôtels du groupe.",
+            "en": "AccorLocal allows businesses to access the spaces of AccorHotels Group's hotels such as lobbies, fitness rooms, bars, meeting rooms, etc..."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/17_accor-local/06_accorlocal.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Une interface sobre pour une expérience riche",
+            "en": "A clean interface for a powerful experience"
+          },
+          "text": {
+            "fr": "Nous avons construit un design system sur la base d'une personnalisation de la charte graphique AccorHotels différenciant le produit AccorLocal de sa maison mère.",
+            "en": "We've built a design system based on a customization of AccorHotels brand guidelines to differentiate AccorLocal product from its holding company."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/17_accor-local/07_accorlocal.jpg",
+            "width": 3000,
+            "height": 3160
+          },
+          "title": {
+            "fr": "Pensé pour un usage en mobilité",
+            "en": "Crafted for mobile accessibility"
+          },
+          "text": {
+            "fr": "Et bien évidemment, comme pour l'ensemble des produits que nous concevons, une approche orientée pour la mobilité et des services accessibles n'importe où, n'importe quand.",
+            "en": "And of course, as for each and every product we conceive, a mobile oriented approach to access AccorLocal's services anytime, anywhere."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/17_accor-local/08_accorlocal.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "AccorLocal",
+            "en": "AccorLocal"
+          },
+          "text": {
+            "fr": "Profitez de l'hôtel sans y dormir",
+            "en": "Enjoy hotels without sleeping there"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "AccoHotels",
+                  "en": "AccorHotels"
+                },
+                {
+                  "fr": "AccorLocal",
+                  "en": "AccorLocal"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Créative",
+                  "en": "Creative Direction"
+                },
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Expérience",
+                  "en": "Experience Design"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2018",
+                  "en": "2018"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "garnier-bb-light",
+      "title": {
+        "en": "Garnier BB Light",
+        "fr": "Garnier BB Light"
+      },
+      "subtitle": {
+        "fr": "Belle au naturel",
+        "en": "Naturally beautiful"
+      },
+      "description": {
+        "title": {
+          "fr": "Un challenge autour de la beauté naturelle et de la BB Light, le soin embelliseur sans effet maquillage de Garnier.",
+          "en": "A challenge around natural beauty and the BB Light, the nude effect moisturizing cream by Garnier."
+        },
+        "text": {
+          "fr": "Mad/Studio et NoSite se sont associés pour construire une opération de promotion de la \"beauté au naturel\" via une expérience sur Garnier.fr et un évènement avec Noholita, blogueuse mode et beauté.",
+          "en": "Mad/Studio and Nosite partnered to build a marketing campaign around \"Natural beauty\" with an experience on Garnier.fr and an event with Noholita, fashion & beauty blogger."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/02_garnier-bb-light/01_2048/00_garnier-bb-light.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#fdfdfd"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/02_garnier-bb-light/01_garnier-bb-light.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Le Défi BB Light",
+            "en": "The BB Light Challenge"
+          },
+          "text": {
+            "fr": "Elles pensaient vivre une banale journée shopping avec l'influenceuse mode et beauté Noholita mais ont été plongées au coeur du challenge BB Light : Belle au Naturel !",
+            "en": "They were expecting a shopping spree with the fashion and beauty blogger Noholita but were instead dived into the BB Light Challenge: Naturally Beautiful!"
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/02_garnier-bb-light/02_garnier-bb-light.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": true
+          },
+          "title": {
+            "fr": "Expérience Web",
+            "en": "Web Experience"
+          },
+          "text": {
+            "fr": "Nous avons réalisé une expérience en ligne pour tout connaître de la tendance \"No Make-Up\" et découvrir les conseils des expertes Beauté qui se sont également prêtées au défi BB Light.",
+            "en": "We've built an online experience embedded within Garnier.fr introducing the \"No Make-up\" trend and where beauty influencers who experienced the BB Light Challenge give their advices."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/02_garnier-bb-light/03_garnier-bb-light.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Des échantillons gratuits BB Light à la clé",
+            "en": "The key to BB Light free samples"
+          },
+          "text": {
+            "fr": "Un jeu concours a également été organisé pour tenter de gagner des échantillons gratuits BB Light.",
+            "en": "A contest was organized for a chance to win BB Light free samples."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/02_garnier-bb-light/04_garnier-bb-light.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 2560,
+            "height": 1440,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Le Défi BB Light des Influenceuses",
+            "en": "The Influencers' BB Light Challenge"
+          },
+          "text": {
+            "fr": "Lors de notre première expérience du Défi BB Light, ce sont les influenceuses Camille (Noholita), Fulvia (LufyMakesYouUp) et Laetitia (Dangerouscn) qui se sont prêtées au jeu dans l'oeil du photographe Thierry Bouët.",
+            "en": "During our first BB Light Challenge, the french influencers Camille (Noholita), Fulvia (LufyMakesYouUp) and Laetitia (Dangerouscn) lived the experience through the eye of the famous photographer Thierry Bouët."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/02_garnier-bb-light/05_garnier-bb-light.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 720,
+            "hasSound": true
+          },
+          "title": {
+            "fr": "Belles au Naturel",
+            "en": "Naturally Beautiful"
+          },
+          "text": {
+            "fr": "Retrouvez l'éxpérience complète et le retour d'expérience de nos 3 influenceuses sur Garnier.fr",
+            "en": "Discover the full experience and our 3 influencers' feedback on Garnier.fr"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/02_garnier-bb-light/06_garnier-bb-light.jpg",
+            "width": 3000,
+            "height": 2917
+          },
+          "title": {
+            "fr": "Garnier BB Light",
+            "en": "Garnier BB Light"
+          },
+          "text": {
+            "fr": "Le soin embelliseur sans effet maquillage et le #DefiBBLight.",
+            "en": "The nude effect moisturizing cream and the #BBLightChallenge."
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Garnier France",
+                  "en": "Garnier France"
+                },
+                {
+                  "fr": "NoSite",
+                  "en": "NoSite"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Design d'Animation",
+                  "en": "Motion Design"
+                },
+                {
+                  "fr": "Illustrations",
+                  "en": "Illustrations"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2016",
+                  "en": "2016"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visa-concierge",
+      "title": {
+        "en": "Visa Concierge",
+        "fr": "Visa Concierge"
+      },
+      "subtitle": {
+        "fr": "Your concierge at your fingertips",
+        "en": "Your concierge at your fingertips"
+      },
+      "description": {
+        "title": {
+          "fr": "Votre carte Visa est votre sésame vers un monde de privilèges.",
+          "en": "Your Visa card is your sesame to a new world of privileges."
+        },
+        "text": {
+          "fr": "Mad/Studio et John Paul se sont associés pour construire le futur des services de conciergerie de Visa Global. La réservation de vols, d'hôtels, de restaurants et d'expériences à portée de doigt.",
+          "en": "Mad/Studio and John Paul partnered to build the future of Visa Global's concierge services. Flights, Hotels, Restaurants and Experiences bookings right at your fingertips."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/03_visa-concierge/01_1024/00_visa-concierge.jpg"
+          ]
+        ],
+        "width": 1440,
+        "height": 520,
+        "color": "#61bbce"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/03_visa-concierge/01_visa-concierge.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Privilèges & Découvertes",
+            "en": "Privileges & Exploration"
+          },
+          "text": {
+            "fr": "Visa Concierge propose des réductions et des expériences exclusives mais aussi une source d'inspiration pour partir à la conquête du monde.",
+            "en": "Visa Concierge introduces discounts and exclusive experiences but is also inspirations to conquer the world!"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/03_visa-concierge/02_visa-concierge.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "The Bell",
+            "en": "The Bell"
+          },
+          "text": {
+            "fr": "Votre concierge vous suit partout et répond à toutes vos demandes, n'importe où, n'importe quand !",
+            "en": "The Bell follows you everywhere and answers all your requests; Anytime, anywhere!"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/03_visa-concierge/03_visa-concierge.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "App & Site Web : Une expérience sur tous les supports",
+            "en": "App & Website: An experience made for all devices"
+          },
+          "text": {
+            "fr": "Un site internet responsive et deux apps natives pour iOS et Android rendent l'expérience accessible et optimisée pour tous les supports digitaux.",
+            "en": "A responsive website and two native apps for iOS and Android making the experience accessible and optimized for all connected devices."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/03_visa-concierge/04_visa-concierge.jpg",
+            "width": 1440,
+            "height": 1180
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/03_visa-concierge/05_visa-concierge.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Visa Concierge",
+            "en": "Visa Concierge"
+          },
+          "text": {
+            "fr": "L'ultime expérience de conciergerie !",
+            "en": "The ultimate concierge experience!"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Visa Monde",
+                  "en": "Visa Global"
+                },
+                {
+                  "fr": "John Paul",
+                  "en": "John Paul"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Creative",
+                  "en": "Creative Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Développement Front-End",
+                  "en": "Front-End Development"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2019",
+                  "en": "2019"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visa-platinum",
+      "title": {
+        "en": "Visa Platinum",
+        "fr": "Visa Platinum"
+      },
+      "subtitle": {
+        "fr": "Loin de l'ordinaire",
+        "en": "Everywhere you want to be"
+      },
+      "description": {
+        "title": {
+          "fr": "Votre carte Visa Platinum est votre sésame vers un monde de privilèges.",
+          "en": "Your Visa Platinum card is your sesame to a new world of privileges."
+        },
+        "text": {
+          "fr": "Mad/Studio et John Paul se sont associés pour construire le futur des services de conciergerie de Visa Platinum France. La réservation de vols, d'hôtels, de restaurants et d'expériences à portée de doigt.",
+          "en": "Mad/Studio and John Paul partnered to build the future of Visa Platinum France's concierge services. Flights, Hotels, Restaurants and Experiences bookings right at your fingertips."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/04_visa-platinum/01_2048/00_visa-platinum.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#fcc560"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/01_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Une interface pour toutes vos demandes",
+            "en": "An interface for all your needs"
+          },
+          "text": {
+            "fr": "Les porteurs de carte Visa Platinum ont accès à une interface dédiée pour découvrir leurs privilèges ainsi que des tendances tout au long de l'année.",
+            "en": "Visa Platinum's cardholders have access to a dedicated interface to discover their privileges and trends all year long."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/02_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Pensé pour la mobilité",
+            "en": "Thought for mobility"
+          },
+          "text": {
+            "fr": "L'accés aux services Visa Platinum de n'importe où, n'importe quand.",
+            "en": "Visa Platinum's services available anytime, anywhere."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/03_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Intuitif et efficace",
+            "en": "Intuitive and efficient"
+          },
+          "text": {
+            "fr": "De nombreux services à portée de doigt.",
+            "en": "Many services at your fingertips."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/04_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Le Magazine Visa Platinum",
+            "en": "Visa Platinum Magazine"
+          },
+          "text": {
+            "fr": "Une édition semi-annuelle du magazine présente les nouveaux partenaires et nouvelles offres ainsi que des recommandations de saison.",
+            "en": "A semi-annual edition of the magazine introduces new partners, new offers and recommendations for all seasons."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/05_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Numéro 10",
+            "en": "Number 10"
+          },
+          "text": {
+            "fr": "La dixième édition du magazine a vu sa direction créative repensée pour un style premium et épuré.",
+            "en": "The tenth edition of the magazine had its creative direction rethought for a premium and clean style."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/04_visa-platinum/06_visa-platinum.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Visa Platinum",
+            "en": "Visa Platinum"
+          },
+          "text": {
+            "fr": "Loin de l'ordinaire",
+            "en": "Everywhere you want to be"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Visa France",
+                  "en": "Visa France"
+                },
+                {
+                  "fr": "Visa Platinum",
+                  "en": "Visa Platinum"
+                },
+                {
+                  "fr": "John Paul",
+                  "en": "John Paul"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Creative",
+                  "en": "Creative Direction"
+                },
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Développement Front-End",
+                  "en": "Front-End Development"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2016",
+                  "en": "2016"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visa-europe",
+      "title": {
+        "en": "Visa Europe",
+        "fr": "Visa Europe"
+      },
+      "subtitle": {
+        "fr": "Concierge Services",
+        "en": "Concierge Services"
+      },
+      "description": {
+        "title": {
+          "fr": "Votre carte Visa est votre sésame vers un monde de privilèges.",
+          "en": "Your Visa card is your sesame to a new world of privileges."
+        },
+        "text": {
+          "fr": "Mad/Studio et John Paul se sont associés pour construire le futur des services de conciergerie de Visa Europe. La réservation de vols, d'hôtels, de restaurants et d'expériences à portée de doigt.",
+          "en": "Mad/Studio and John Paul partnered to build the future of Visa Europe's concierge services. Flights, Hotels, Restaurants and Experiences bookings right at your fingertips."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/05_visa-europe/01_2048/00_visa-europe.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#99ad5a"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/05_visa-europe/01_visa-europe.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/05_visa-europe/02_visa-europe.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/05_visa-europe/03_visa-europe.jpg",
+            "width": 1440,
+            "height": 1180
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/05_visa-europe/04_visa-europe.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/05_visa-europe/05_visa-europe.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "Design",
+            "en": "Design"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "my-thalassa",
+      "title": {
+        "en": "MyThalassa",
+        "fr": "MyThalassa"
+      },
+      "subtitle": {
+        "fr": "Mon activateur de bien être",
+        "en": "My wellness enhancer"
+      },
+      "description": {
+        "title": {
+          "fr": "Vos réservations de Thalasso et Spa vous donnent accès à de nombreuses offres et privilèges.",
+          "en": "Your Thalasso and Spas bookings grant you access to multiple offers and privileges."
+        },
+        "text": {
+          "fr": "Mad/Studio et John Paul se sont associés pour construire l'offre de fidélisation des clients Thalassa.",
+          "en": "Mad/Studio and John Paul partnered to build Thalassa's customer loyalty program."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/06_my-thalassa/01_2048/00_my-thalassa.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#79b8e4"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/06_my-thalassa/01_my-thalassa.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Des privilèges et des tendances",
+            "en": "Privileges & Trends"
+          },
+          "text": {
+            "fr": "En plus des offres et privilèges dont ils bénéficient, MyThalassa leur ouvre les portes de nombreuses découvertes et tendances autour du bien-être et du sport.",
+            "en": "On top of offers and privileges, MyThalassa opens the gates to wonderful news and trends around wellness and sports."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/06_my-thalassa/02_my-thalassa.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Services de Conciergerie",
+            "en": "Concierge Services"
+          },
+          "text": {
+            "fr": "MyThalassa embarque également le produit issu de la Conciergerie de John Paul permettant aux utilisateurs de contacter leur concierge pour toute demande, quand ils veulent et d'où ils veulent !",
+            "en": "MyThalassa also embarks the product from John Paul's Concierge allowing the users to make any kind of request to their concierge, anytime, anywhere!"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/06_my-thalassa/04_my-thalassa.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "En toute sereinité",
+            "en": "With great serenity"
+          },
+          "text": {
+            "fr": "Vous n'avez plus qu'à profiter du moment, l'esprit serein.",
+            "en": "Your only concern is to enjoy the moment."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/06_my-thalassa/03_my-thalassa.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Une expérience multi-supports",
+            "en": "A multi-devices experience"
+          },
+          "text": {
+            "fr": "Comme toujours, la plateforme est accessible depuis tous types de supports digitaux avec une reflexion pensée pour les usages en mobilité.",
+            "en": "As always, the platform is available for all kinds of devices, especially thought for mobile usages."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/06_my-thalassa/05_my-thalassa.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Une nouvelle façon de vivre votre Thalasso",
+            "en": "An other way to experience Spas"
+          },
+          "text": {
+            "fr": "Partez à la découverte de destinations balnéaires grâce aux guides My Thalassa.",
+            "en": "Discover destinations thanks to My Thalassa's city guides."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/06_my-thalassa/06_my-thalassa.jpg",
+            "width": 3000,
+            "height": 2125
+          },
+          "title": {
+            "fr": "My Thalassa",
+            "en": "My Thalassa"
+          },
+          "text": {
+            "fr": "Mon Activateur de Bien-Être",
+            "en": "My Wellness Enhancer"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Thalassa",
+                  "en": "Thalassa"
+                },
+                {
+                  "fr": "AccorHotels",
+                  "en": "AccorHotels"
+                },
+                {
+                  "fr": "John Paul",
+                  "en": "John Paul"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Développement Front-End",
+                  "en": "Front-End Development"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2018",
+                  "en": "2018"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "down",
+      "title": {
+        "en": "Down",
+        "fr": "Down"
+      },
+      "subtitle": {
+        "fr": "Never miss a moment",
+        "en": "Never miss a moment"
+      },
+      "description": {
+        "title": {
+          "fr": "Down est une application gratuite d'organisation d'évènements entre amis, collègues ou famille.",
+          "en": "Down is a free event organizer application crafted for you, your friends, collegues or family."
+        },
+        "text": {
+          "fr": "Down est un produit initié et incubé au sein de Mad/Studio.",
+          "en": "Down is a product initiated and incubated within Mad/Studio."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/07_down/01_2048/00_down.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#a16e5c"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/07_down/01_down.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Le détail compte",
+            "en": "Details matter"
+          },
+          "text": {
+            "fr": "Down est réalisée par le studio, pour le studio. Notre seule limite est notre imagination pour répondre aux besoins de nos utilisateurs. L'application a été designée avec pour principal objectif de faire de l'experience et des interactions un seul et même sujet.",
+            "en": "Down was crafted by the studio, for the studio. The only limit we have is our imagination and user's needs. We designed it in a way where the experience and the interactions are our first concern."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/07_down/02_down.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Le concept",
+            "en": "The idea"
+          },
+          "text": {
+            "fr": "Down est né d'un besoin de pouvoir organiser facilement et rapidement des évènements pour y convier amis, collègues ou famille et d'obtenir une réponse instantanée (je suis chaud / je ne le suis pas). Le système se base sur un système simple de notifications pour vous permettre d'organiser efficacement votre evènement.",
+            "en": "Down is born from the need of organizing easily and effectively events for friends, family or collegues and to get a quick answer on their availability (I'm Down / I'm not). Our system is the most basic one based on notifications for you to organize it effectively."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/07_down/03_down.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Simple comme Bonjour",
+            "en": "Easy Peasy"
+          },
+          "text": {
+            "fr": "Down n'a rien de complexe ; il est 19 heures, vous sortez du travail et n'avez rien eu le temps de prévoir ? Vous créez un evenement \"Tennis\" et souhaitez savoir si l'un de vos amis est \"Down\". C'est absolument tout ! Pour le reste vous vous débrouillez par texto, whatsapp, fax ou hibou. On simplifie simplement la communication pour éviter les groupes de messages à des dizaines de personnes où Roger va encore raconter sa dernière compète au racing (et c'est vrai qu'on s'en fout).",
+            "en": "Down has nothing complex; it's 7pm, you're leaving the office and didn't plan anything yet with your, obviously, busy workday? You want to create a quick \"Tennis\" event and would like to know if one of your friends is Down for it. That's it! You've got a quick answer and for the rest, we'll just let you send a text, a whatsapp, a fax or an owl. We're just simplifying communication to avoid group texts where Mike will storytell his latest competition (and to be honest, no one really cares)."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/07_down/04_down.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Down",
+            "en": "Down"
+          },
+          "text": {
+            "fr": "Never miss a moment",
+            "en": "Never miss a moment"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Down",
+                  "en": "Down"
+                },
+                {
+                  "fr": "Mad/Studio",
+                  "en": "Mad/Studio"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Creative",
+                  "en": "Creative Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Design d'Animation",
+                  "en": "Motion Design"
+                },
+                {
+                  "fr": "Development d'Application (Swift & Kotlin)",
+                  "en": "Mobile Development (Swift & Kotlin)"
+                },
+                {
+                  "fr": "Développement Produit",
+                  "en": "Product Ownership"
+                },
+                {
+                  "fr": "Marketing Direction",
+                  "en": "Marketing Direction"
+                },
+                {
+                  "fr": "Et absolument tout ce à quoi vous pourriez penser",
+                  "en": "Also everything else you could think of"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2019",
+                  "en": "2019"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "accor-bienvenue",
+      "title": {
+        "en": "AccorHotels Bienvenue",
+        "fr": "AccorHotels Bienvenue"
+      },
+      "subtitle": {
+        "fr": "Le Programme Bienvenue",
+        "en": "The Bienvenue Program"
+      },
+      "description": {
+        "title": {
+          "fr": "Le programme dédié aux collaborateurs AccorHotels.",
+          "en": "The program dedicated to AccorHotels employees."
+        },
+        "text": {
+          "fr": "Mad/Studio et John Paul se sont associés pour redéfinir le Programme Bienvenue proposant des offres dédiées aux collaborateurs AccorHotels.",
+          "en": "Mad/Studio and John Paul partnered to rebuild AccorHotels employee loyalty program: Bienvenue."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/08_accor-bienvenue/01_2048/00_accor-bienvenue.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#9bc2e9"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/08_accor-bienvenue/01_accor-bienvenue.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Le programme Bienvenue",
+            "en": "The Bienvenue program"
+          },
+          "text": {
+            "fr": "Feel Welcome! En réservant le meilleur accueil et le service le plus attentionné aux hôtes AccorHotels, les collaborateurs font vivre cette promesse chaque jour ! Pour les remercier de leur implication et de leur engagement, AccorHotels souhaite, à son tour, leur faire profiter du meilleur de AccorHotels à des conditions exclusives.",
+            "en": "Feel Welcome! By welcoming AccorHotels' guests with care and offering them the best service possible, the employees are daily ambassadors of AccorHotels' promise! To thank them for their dedication and engagement, they are granted an exclusive access to what AccorHotels has best to offer."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/08_accor-bienvenue/02_accor-bienvenue.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Des séjours toujours plus variés",
+            "en": "A dynamic selection of stays"
+          },
+          "text": {
+            "fr": "Avec le Programme Bienvenue, ils peuvent profiter d'avantages, quelles que soient leurs envies, dans toutes les adresses AccorHotels dans le monde entier, du luxe à l’économique. L’occasion pour eux de profiter tout au long de l’année de séjours inoubliables !",
+            "en": "With the Bienvenue program, they take advantage of incredible offers. Whatever they want, wherever they are, whatever their price point… They can enjoy unforgettable stays all year round!"
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/08_accor-bienvenue/03_accor-bienvenue.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 560,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Des offres spéciales tout au long de l'année",
+            "en": "Exclusive deals all year round"
+          },
+          "text": {
+            "fr": "En plus de l’offre permanente valable dans toutes les adresses du groupe, ils vont pouvoir découvrir les ventes privées et les offres flash proposées en exclusivité par les hôteliers AccorHotels. Ici, ils trouveront régulièrement des bons plans pour eux, bien sûr, mais aussi pour leur famille et leurs amis. De nouvelles offres sont régulièrement ajoutées.",
+            "en": "In addition to the permanent offer on all AccorHotels Group’s hotels, they'll discover a choice of private sales and flash sales exclusively presented by AccorHotels. Hotels have got deals for them to enjoy and share with their family and friends. New offers are posted regularly."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/08_accor-bienvenue/04_accor-bienvenue.jpg",
+            "width": 3000,
+            "height": 2092
+          },
+          "title": {
+            "fr": "De nouveaux avantages à découvrir toutes les semaines",
+            "en": "Discover new privileges weekly"
+          },
+          "text": {
+            "fr": "Qui dit nouveau programme dit nouveaux partenaires ! Le programme Bienvenue, c’est plus de 50 partenaires répartis selon différents univers (Voyage, Gourmet, Bien-être et Sport, etc.). Ces offres, amenées à se développer et à s’enrichir en permanence, sont réservées à tous les collaborateurs AccorHotels dans le monde entier.",
+            "en": "New program, new partners! Bienvenue counts now more than 50 partners offering different experiences (Travel, Dining, Wellness and Fitness, etc.). These offers are part of an ever-changing and growing collection reserved for all AccorHotels employees around the world. "
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/08_accor-bienvenue/05_accor-bienvenue.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 475,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Une expérience multi-devices",
+            "en": "A cross-canal experience"
+          },
+          "text": {
+            "fr": "La plateforme est accessible depuis tous les supports digitaux et a été créée dans une approche \"mobile-centric\" pour répondre aux usages des collaborateurs (85 % des accès par mobile).",
+            "en": "The platform is available on any device and has been created on a mobile-centric approach to answer employees needs, where 85% access the website from a mobile device."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/08_accor-bienvenue/06_accor-bienvenue.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "AccorHotels Bienvenue",
+            "en": "AccorHotels Bienvenue"
+          },
+          "text": {
+            "fr": "Le programme dédié aux collaborateurs AccorHotels.",
+            "en": "The program dedicated to AccorHotels employees."
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "AccorHotels",
+                  "en": "AccorHotels"
+                },
+                {
+                  "fr": "John Paul",
+                  "en": "John Paul"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Creative",
+                  "en": "Creative Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Développement Front-End",
+                  "en": "Front-End Development"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2018",
+                  "en": "2018"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "coingeek-rigs",
+      "title": {
+        "en": "Coingeek Rigs",
+        "fr": "Coingeek Rigs"
+      },
+      "subtitle": {
+        "fr": "The future of mining",
+        "en": "The future of mining"
+      },
+      "description": {
+        "title": {
+          "fr": "Full of new advantages, whatever your desires, in all our addresses in the whole world, from luxury to economic.",
+          "en": "Full of new advantages, whatever your desires, in all our addresses in the whole world, from luxury to economic."
+        },
+        "text": {
+          "fr": "Web Conception built within Accorhotels-bienvenue.com website",
+          "en": "Web Conception built within Accorhotels-bienvenue.com website"
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/09_coingeek-rigs/01_2048/00_coingeek-rigs.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#323232"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/09_coingeek-rigs/01_coingeek-rigs.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "TO DO - TITLE",
+            "en": "TO DO - TITLE"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/09_coingeek-rigs/02_coingeek-rigs.jpg",
+            "width": 1440,
+            "height": 800
+          },
+          "title": {
+            "fr": "TO DO - TITLE",
+            "en": "TO DO - TITLE"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/09_coingeek-rigs/03_coingeek-rigs.jpg",
+            "width": 1440,
+            "height": 1330
+          },
+          "title": {
+            "fr": "TO DO - TITLE",
+            "en": "TO DO - TITLE"
+          },
+          "text": {
+            "fr": "TO DO",
+            "en": "TO DO"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "societe-generale",
+      "title": {
+        "en": "Société Générale",
+        "fr": "Société Générale"
+      },
+      "subtitle": {
+        "fr": "Fraude bancaire",
+        "en": "Bank fraud"
+      },
+      "description": {
+        "title": {
+          "fr": "Fraude bancaire par Société Générale, une solution corporate.",
+          "en": "Bank fraud by Société Générale, an enterprise solution."
+        },
+        "text": {
+          "fr": "Réalisation de l'interface de sensabilisation des entreprises aux risques liés à la cybersécurité.",
+          "en": "Conception of the interface to drive awareness in companies on risks linked to cybersecurity."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/10_societe-generale/01_1024/00_societe-generale.jpg"
+          ]
+        ],
+        "width": 1440,
+        "height": 520,
+        "color": "#ced7db"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/10_societe-generale/01_societe-generale.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Chaque année, une entreprise sur deux est victime de fraude.",
+            "en": "Every year, one company out of two is victim of fraud."
+          },
+          "text": {
+            "fr": "Société Générale conseille les entreprise sur les mesures pour identifier et prévenir les fraudes bancaires.",
+            "en": "Société Générale provides companies with advices to identify and prevent bank fraud."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/10_societe-generale/02_societe-generale.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Mesures de Prévention",
+            "en": "Preventive Measures"
+          },
+          "text": {
+            "fr": "4 mesures simples aident les entreprises et leurs équipes à identifier et prévenir la fraude de manière efficace.",
+            "en": "4 basic steps help companies and their teams identify and prevent fraud efficiently."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/10_societe-generale/03_societe-generale.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Solutions de Sécurité",
+            "en": "Security Solutions"
+          },
+          "text": {
+            "fr": "Société Générale présente 3 solutions pour une sécurité optimale.",
+            "en": "Société Générale provides 3 efficient solutions for maximum security."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/10_societe-generale/04_societe-generale.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Une expérience intégrée",
+            "en": "An Integrated Experience"
+          },
+          "text": {
+            "fr": "Cette plateforme web s'intègre parfaitement à l'écosystème Société Générale.",
+            "en": "This web platform perfectly fits with the Société Générale ecosystem."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/10_societe-generale/05_societe-generale.jpg",
+            "width": 3000,
+            "height": 3458
+          },
+          "title": {
+            "fr": "Société Générale",
+            "en": "Société Générale"
+          },
+          "text": {
+            "fr": "Fraude Bancaire",
+            "en": "Bank Fraud"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Société Générale",
+                  "en": "Société Générale"
+                },
+                {
+                  "fr": "Castor & Pollux",
+                  "en": "Castor & Pollux"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2015",
+                  "en": "2015"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "acadomia",
+      "title": {
+        "en": "Acadomia",
+        "fr": "Acadomia"
+      },
+      "subtitle": {
+        "fr": "Le soutien scolaire en ligne",
+        "en": "Online tutoring"
+      },
+      "description": {
+        "title": {
+          "fr": "Acadomia 365 rend le soutien scolaire plus accessible",
+          "en": "Acadomia 365 creates an easier access to educational support"
+        },
+        "text": {
+          "fr": "Réalisation de la plateforme Acadomia 365 permettant aux étudiants de bénéficier d'un soutien scolaire en ligne.",
+          "en": "Conception of the Acadomia 365 platform allowing students to benefit from an online educational support."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/14_acadomia/01_2048/00_acadomia.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#939486"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/14_acadomia/01_acadomia.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Une Plateforme Intuitive",
+            "en": "An Intuitive Platform"
+          },
+          "text": {
+            "fr": "Une fois connecté, les étudiants ont tout à portée de clic.",
+            "en": "Once logged in, everything students need is one click away."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/14_acadomia/02_acadomia.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "L'Outil Parfait pour Réviser",
+            "en": "The Perfect Tool to Study"
+          },
+          "text": {
+            "fr": "Réviser n'a jamais été aussi simple et motivant.",
+            "en": "Studying has never been that easy and motivating."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/14_acadomia/03_acadomia.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Une Plateforme Complète",
+            "en": "A Complete Platform"
+          },
+          "text": {
+            "fr": "Acadomia 365, c'est aussi un contenu pédagogique détaillé, une foire aux questions et des professeurs disponibles !",
+            "en": "Acadomia 365 also provides students with curated pedagogical content, questions and answers from other students and professors available anytime!"
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/14_acadomia/04_acadomia.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Votre Tableau de Bord Personnalisé",
+            "en": "Your Personalized Dashboard"
+          },
+          "text": {
+            "fr": "Le tableau de bord offre un suivi complet des révisions et sujets et profite également d'une fonction de calendrier pour une meilleure organisation.",
+            "en": "The dashboard offers a complete follow up of subjects and progression and also benefit from a calendar feature for a better organization."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/14_acadomia/05_acadomia.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Acadomia 365",
+            "en": "Acadomia 365"
+          },
+          "text": {
+            "fr": "La solution complète de soutien scolaire en ligne.",
+            "en": "The complete solution for online tutoring."
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Acadomia",
+                  "en": "Acadomia"
+                },
+                {
+                  "fr": "SensioGrey",
+                  "en": "SensioGrey"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Animation",
+                  "en": "Motion Design"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2015",
+                  "en": "2015"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "carrefour",
+      "title": {
+        "en": "Carrefour",
+        "fr": "Carrefour"
+      },
+      "subtitle": {
+        "fr": "Le programme Carrefour Graduates",
+        "en": "The Carrefour Graduates program"
+      },
+      "description": {
+        "title": {
+          "fr": "Le programme Graduates de Carrefour présente l'ensemble des métiers et missions que propose le groupe aux nouveaux diplômés tout juste sortis d'école.",
+          "en": "Carrefour Graduates program introduces all the openings and missions in the group for post-graduates."
+        },
+        "text": {
+          "fr": "Mad/Studio a concu et réalisé cette expérience adressée aux post-étudiants désireux de construire le futur du groupe Carrefour dans le monde.",
+          "en": "Mad/Studio conceived and realized this experience for the post-graduates wishing to build the future of Carrefour group worldwide."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/15_carrefour/01_2048/00_carrefour.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#222938"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/15_carrefour/01_carrefour.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Présentation du Programme",
+            "en": "Introduction to the Program"
+          },
+          "text": {
+            "fr": "Le programme Graduates présente ses formations : Digital, Supply Chain, Dirigeant et Directeur d'Hypermarché.",
+            "en": "The Graduates Program platform introduces Digital, Supply Chain, Leader and Director of \"Hypermarché\" programs."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/15_carrefour/02_carrefour.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Une communauté",
+            "en": "Part of a Community"
+          },
+          "text": {
+            "fr": "Carrefour Graduates, c'est également une communauté mondiale de leaders, d'influenceurs et d'acteurs de l'innovation chez Carrefour.",
+            "en": "Carrefour Graduates is also a global community of leaders, influencers and actors of the innovation at Carrefour."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/15_carrefour/03_carrefour.jpg",
+            "width": 3000,
+            "height": 4075
+          },
+          "title": {
+            "fr": "Carrefour",
+            "en": "Carrefour"
+          },
+          "text": {
+            "fr": "Le Programme Carrefour Graduates.",
+            "en": "The Carrefour Graduates Program."
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "Carrefour",
+                  "en": "Carrefour"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Animation",
+                  "en": "Motion Design"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2017",
+                  "en": "2017"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "le-medecin",
+      "title": {
+        "en": "Le Médecin",
+        "fr": "Le Médecin"
+      },
+      "subtitle": {
+        "fr": "Vos services santé",
+        "en": "Your health services"
+      },
+      "description": {
+        "title": {
+          "fr": "LeMedecin.fr est le répertoire des praticiens médicaux en France.",
+          "en": "LeMedecin.fr is a directory of all medical practitioners in France."
+        },
+        "text": {
+          "fr": "Mad/Studio a repensé la plateforme pour optimiser l'expérience de ses utilisateurs afin qu'ils puissent bénéficier de toutes les informations sur leurs praticiens.",
+          "en": "Mad/Studio completely rethought the platform to optimize its users' experience so that they could benefit from all the information they need on their doctors."
+        }
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/works/16_le-medecin/01_2048/00_le-medecin.jpg"
+          ]
+        ],
+        "width": 2880,
+        "height": 1040,
+        "color": "#8a948c"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/16_le-medecin/01_le-medecin.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "Logo et Charte Graphique",
+            "en": "Logo and Guidelines"
+          },
+          "text": {
+            "fr": "Le logo a été raffraichit et la charte complètement repensée.",
+            "en": "The logo was rebuilt while guidelines have been completely rethought."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/16_le-medecin/02_le-medecin.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Une plateforme pour tous",
+            "en": "A platform for all"
+          },
+          "text": {
+            "fr": "En plus des informations sur leurs praticiens, les patients peuvent prendre des rendez-vous. Les praticiens, quant à eux, prennent le contrôle du contenu de leur propre page.",
+            "en": "On top of information on their practitioners, patients are able to book appointments. Practitioners, on their end, take control of their own page."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/16_le-medecin/03_le-medecin.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Cherchez, trouvez, consultez",
+            "en": "Search, find, consult"
+          },
+          "text": {
+            "fr": "Trouvez votre praticien et prenez rendez-vous en ligne.",
+            "en": "Find your doctor and book an appointment online."
+          }
+        },
+        {
+          "type": "video",
+          "video": {
+            "srcs": [
+              {
+                "src": "/static/works/16_le-medecin/04_le-medecin.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "width": 1280,
+            "height": 712,
+            "hasSound": false
+          },
+          "title": {
+            "fr": "Votre passeport santé",
+            "en": "Your health passport"
+          },
+          "text": {
+            "fr": "LeMedecin.fr est également votre passeport santé. Transmettez vos informations à votre praticien lorsque vous le souhaitez.",
+            "en": "LeMedecin.fr is also your health passport. Give your practitioner access to your information when you want to."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/16_le-medecin/05_le-medecin.jpg",
+            "width": 3000,
+            "height": 3727
+          },
+          "title": {
+            "fr": "Pensée pour la mobilité",
+            "en": "Conceived for mobile usage"
+          },
+          "text": {
+            "fr": "La plateforme a spécialement été conçue pour un usage en mobilité. Accédez à vos services quand et où vous voulez.",
+            "en": "The platform was specifically crafted for mobile usage. Access your services anytime and anywhere."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/static/works/16_le-medecin/06_le-medecin.jpg",
+            "width": 3000,
+            "height": 1667
+          },
+          "title": {
+            "fr": "LeMedecin.fr",
+            "en": "LeMedecin.fr"
+          },
+          "text": {
+            "fr": "Vos services santé",
+            "en": "Your health services"
+          }
+        },
+        {
+          "type": "summary",
+          "items": [
+            {
+              "title": {
+                "en": "Clients",
+                "fr": "Clients"
+              },
+              "items": [
+                {
+                  "fr": "LeMedecin.fr",
+                  "en": "LeMedecin.fr"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Missions",
+                "fr": "Missions"
+              },
+              "items": [
+                {
+                  "fr": "Direction Artistique",
+                  "en": "Art Direction"
+                },
+                {
+                  "fr": "Design d'Interaction",
+                  "en": "Interaction Design"
+                },
+                {
+                  "fr": "Design d'Experience",
+                  "en": "Experience Design"
+                },
+                {
+                  "fr": "Développement",
+                  "en": "Development"
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Dates",
+                "fr": "Dates"
+              },
+              "items": [
+                {
+                  "fr": "2018",
+                  "en": "2018"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "title": {
+        "fr": "Vous avez une idée",
+        "en": "You've got an idea"
+      },
+      "subtitle": {
+        "fr": "Nous avons l'équipe",
+        "en": "We've got the team"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">Donner vie aux idées</span><br/>Nous sommes des <u>entrepreneurs</u>, des <u>designers</u>, des <u>développeurs</u>, des <u>spécialistes du marketing</u>, des <u>mentors</u>, des <u>investisseurs</u> et, surtout, des <u>humains</u> avec pour objectif commun de réaliser des projets qui créent une réelle valeur.",
+        "en": "<span class=\"bold\">Bringing ideas to life</span><br/>We are <u>entrepreneurs</u>, <u>designers</u>, <u>developers</u>, <u>marketers</u>, <u>mentors</u>, <u>investors</u> and most of all <u>humans</u> with the common goal of achieving together anything that creates true value."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/services/02_2048/Services_01_Idea_tom-the-photographer-303207-unsplash.jpg"
+          ]
+        ],
+        "width": 1734,
+        "height": 3648,
+        "color": "#717e8e"
+      }
+    },
+    {
+      "title": {
+        "fr": "Folie douce",
+        "en": "Tender madness"
+      },
+      "subtitle": {
+        "fr": "Nous sommes un studio de design",
+        "en": "We are a design studio"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">De A à Z</span><br/>Nous sommes fiers d'avoir trouvé l'organisation parfaite pour <u>concevoir</u>, <u>déployer</u>, <u>tester</u>, <u>itérer</u> et <u>développer</u> vos projets, comme nous le faisons avec les nôtres.",
+        "en": "<span class=\"bold\">From A to Z</span><br/>We are proud we've found the perfect organization to <u>conceive</u>, <u>bootstrap</u>, <u>test</u>, <u>iterate</u> and <u>scale</u> your projects, the same way we do that for ours."
+      },
+      "listItems": [
+        {
+          "icon": "/static/services/icons/conception.svg",
+          "text": {
+            "fr": "Conception & Design",
+            "en": "Conception & Design"
+          }
+        },
+        {
+          "icon": "/static/services/icons/architecture.svg",
+          "text": {
+            "fr": "Architecture technique",
+            "en": "Technical Architecture"
+          }
+        },
+        {
+          "icon": "/static/services/icons/development.svg",
+          "text": {
+            "fr": "Développement",
+            "en": "Development"
+          }
+        },
+        {
+          "icon": "/static/services/icons/strategy.svg",
+          "text": {
+            "fr": "Stratégie et Financement",
+            "en": "Strategy and Financing"
+          }
+        },
+        {
+          "icon": "/static/services/icons/growth.svg",
+          "text": {
+            "fr": "Croissance & Évolution",
+            "en": "Growth & Scale"
+          }
+        }
+      ],
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/services/02_2048/Services_02_Design_jakob-owens-205642-unsplash.jpg"
+          ]
+        ],
+        "width": 2424,
+        "height": 5472,
+        "color": "#2c2c2c"
+      }
+    },
+    {
+      "title": {
+        "fr": "Determinés et engagés",
+        "en": "Design thinkers"
+      },
+      "subtitle": {
+        "fr": "Nous sommes des créateurs",
+        "en": "We are creators"
+      },
+      "text": {
+        "fr": "<span class=\"bold\">Un véritable dévouement à la résolution de problèmes</span></br>Nous réalisons tous types de projets digitaux mais créons également des entreprises autour des industries qui nous passionnent. Notre idée est de combiner les forces entre nos clients, nos incubés et notre équipe.<br> Nos collaborateurs choisissent les projets sur lesquels ils souhaitent travailler. Contrairement aux agences traditionnelles, Ils sont libres de vivre leur passion autour des industries qui les inspirent, et ne sont plus des éxécutants mais de réels acteurs et créateurs.",
+        "en": "<span class=\"bold\">True dedication to problem solving</span><br/>We also incubate all kind of projects and companies. Our idea is to mix strengths between our clients, our incubees and our team. <br> Our collaborators are the ones choosing the projects they want to work on. Unlike any agency, they are free to live their passion to the industry itself meaning that they are not executants anymore but real actors and creators."
+      },
+      "image": {
+        "src": [
+          [
+            0,
+            "/static/services/02_2048/Services_03_Creators_samule-sun-471862-unsplash.jpg"
+          ]
+        ],
+        "width": 2174,
+        "height": 3905,
+        "color": "#e0c6a4"
+      }
+    }
+  ],
+  "servicesButton": {
+    "text": {
+      "fr": "Travaillons ensemble",
+      "en": "Let's work together"
+    },
+    "to": "/contact"
+  },
+  "contact": {
+    "image": {
+      "src": [
+        [
+          0,
+          "/static/contact/02_2048/Contact_cedric-klei-685415-unsplash.jpg"
+        ]
+      ],
+      "width": 2856,
+      "height": 5184,
+      "color": "#e0c6a4"
+    },
+    "title": {
+      "fr": "N'hésitez pas",
+      "en": "We've got your back"
+    },
+    "subtitle": {
+      "fr": "Contactez-nous",
+      "en": "Contact us"
+    },
+    "firstName": {
+      "fr": "Prénom",
+      "en": "First name"
+    },
+    "lastName": {
+      "fr": "Nom de famille",
+      "en": "Last name"
+    },
+    "phone": {
+      "fr": "Téléphone",
+      "en": "Phone"
+    },
+    "email": {
+      "fr": "Email",
+      "en": "Email"
+    },
+    "message": {
+      "fr": "Message",
+      "en": "Message"
+    },
+    "send": {
+      "fr": "Envoyer",
+      "en": "Send"
+    },
+    "submitting": {
+      "fr": "En cours d'envoi",
+      "en": "Submitting"
+    },
+    "invalidPhone": {
+      "fr": "Numéro de téléphone invalide",
+      "en": "Invalid phone"
+    },
+    "invalidEmail": {
+      "fr": "Email invalide",
+      "en": "Invalid email"
+    },
+    "submittedTitle": {
+      "fr": "Merci !",
+      "en": "Thank you!"
+    },
+    "submittedSubtitle": {
+      "fr": "Votre message nous a bien été transmis",
+      "en": "Your message has been sent"
+    },
+    "mobile": {
+      "fr": "<a href=\"mailto:hello@mad.studio\" title=\"Email\">hello@mad.studio</a>",
+      "en": "<a href=\"mailto:hello@mad.studio\" title=\"Email\">hello@mad.studio</a>"
+    }
+  },
+  "socials": [
+    {
+      "name": "facebook",
+      "text": {
+        "fr": "Facebook - <span>@MadStudio.Paris</span>",
+        "en": "Facebook - <span>@MadStudio.Paris</span>"
+      },
+      "src": "/static/socials/facebook.svg",
+      "href": "https://www.facebook.com/madstudio.paris/?ref=br_rs"
+    },
+    {
+      "name": "instagram",
+      "text": {
+        "en": "Instagram - <span>@MadStudioParis</span>",
+        "fr": "Instagram - <span>@MadStudioParis</span>"
+      },
+      "src": "/static/socials/instagram.svg",
+      "href": "https://www.instagram.com/madstudioparis/"
+    },
+    {
+      "name": "linkedin",
+      "text": {
+        "en": "Linkedin - <span>@MadStudio-Paris</span>",
+        "fr": "Linkedin - <span>@MadStudio-Paris</span>"
+      },
+      "src": "/static/socials/linkedin.svg",
+      "href": "https://www.linkedin.com/company/madstudio-paris/"
+    },
+    {
+      "name": "contact",
+      "text": {
+        "en": "Contact Us - <span>Anytime, Anywhere</span>",
+        "fr": "Contact Us - <span>Anytime, Anywhere</span>"
+      },
+      "src": "/static/socials/contact.svg",
+      "to": "contact"
+    }
+  ],
+  "clientsCTA": {
+    "text": {
+      "fr": "Travaillons ensemble",
+      "en": "Let's Work Together"
+    }
+  },
+  "clients": [
+    {
+      "src": "/static/clients/acadomia.svg",
+      "title": {
+        "fr": "Acadomia",
+        "en": "Acadomia"
+      },
+      "subtitle": {
+        "fr": "Soutien scolaire en ligne",
+        "en": "Online tutoring"
+      }
+    },
+    {
+      "src": "/static/clients/accor-hotels.svg",
+      "title": {
+        "fr": "AccorHotels",
+        "en": "AccorHotels"
+      },
+      "subtitle": {
+        "fr": "Programme Bienvenue",
+        "en": "Bienvenue Program"
+      }
+    },
+    {
+      "src": "/static/clients/accor-local.svg",
+      "title": {
+        "fr": "AccorLocal",
+        "en": "AccorLocal"
+      },
+      "subtitle": {
+        "fr": "L'hôtel sans y dormir",
+        "en": "Your hotel services"
+      }
+    },
+    {
+      "src": "/static/clients/alpine.svg",
+      "title": {
+        "fr": "Alpine RRG",
+        "en": "Alpine RRG"
+      },
+      "subtitle": {
+        "fr": "Alpine A110",
+        "en": "Alpine A110"
+      }
+    },
+    {
+      "src": "/static/clients/ayre.svg",
+      "title": {
+        "fr": "Ayre Media UK",
+        "en": "Ayre Media UK"
+      },
+      "subtitle": {
+        "fr": "Studio de design privilégié",
+        "en": "Privileged design studio"
+      }
+    },
+    {
+      "src": "/static/clients/buy-paris.svg",
+      "title": {
+        "fr": "Buy Paris Duty Free",
+        "en": "Buy Paris Duty Free"
+      },
+      "subtitle": {
+        "fr": "Affichage numérique",
+        "en": "Digital signage"
+      }
+    },
+    {
+      "src": "/static/clients/carrefour.svg",
+      "title": {
+        "fr": "Carrefour",
+        "en": "Carrefour"
+      },
+      "subtitle": {
+        "fr": "Programme graduates",
+        "en": "Graduates program"
+      }
+    },
+    {
+      "src": "/static/clients/coingeek.svg",
+      "title": {
+        "fr": "Coingeek",
+        "en": "Coingeek"
+      },
+      "subtitle": {
+        "fr": "Leader du Bitcoin cash",
+        "en": "Bitcoin cash leader"
+      }
+    },
+    {
+      "src": "/static/clients/ds-automobiles.svg",
+      "title": {
+        "fr": "DS automobiles",
+        "en": "DS automobiles"
+      },
+      "subtitle": {
+        "fr": "Esprit d'avant garde",
+        "en": "Spirit of avant garde"
+      }
+    },
+    {
+      "src": "/static/clients/fred.svg",
+      "title": {
+        "fr": "Fred Paris",
+        "en": "Fred Paris"
+      },
+      "subtitle": {
+        "fr": "Joaillerie en ligne",
+        "en": "Online jewellery"
+      }
+    },
+    {
+      "src": "/static/clients/garnier.svg",
+      "title": {
+        "fr": "Garnier",
+        "en": "Garnier"
+      },
+      "subtitle": {
+        "fr": "Contenu de marque",
+        "en": "Brand content"
+      }
+    },
+    {
+      "src": "/static/clients/hsbc.svg",
+      "title": {
+        "fr": "HSBC",
+        "en": "HSBC"
+      },
+      "subtitle": {
+        "fr": "Programme pioneer",
+        "en": "Pioneer program"
+      }
+    },
+    {
+      "src": "/static/clients/john-paul.svg",
+      "title": {
+        "fr": "John Paul",
+        "en": "John Paul"
+      },
+      "subtitle": {
+        "fr": "Services de conciergerie",
+        "en": "Concierge services"
+      }
+    },
+    {
+      "src": "/static/clients/lemedecin.svg",
+      "title": {
+        "fr": "LeMedecin.fr",
+        "en": "LeMedecin.fr"
+      },
+      "subtitle": {
+        "fr": "Vos services santé",
+        "en": "Your health services"
+      }
+    },
+    {
+      "src": "/static/clients/loreal.svg",
+      "title": {
+        "fr": "L'Oréal Professionnel USA",
+        "en": "L'Oréal Professionnel USA"
+      },
+      "subtitle": {
+        "fr": "Campagnes marketing",
+        "en": "Marketing campaigns"
+      }
+    },
+    {
+      "src": "/static/clients/pernod-ricard.svg",
+      "title": {
+        "fr": "Pernod Ricard",
+        "en": "Pernod Ricard"
+      },
+      "subtitle": {
+        "fr": "Programme digital",
+        "en": "Digital program"
+      }
+    },
+    {
+      "src": "/static/clients/porsche.svg",
+      "title": {
+        "fr": "Porsche",
+        "en": "Porsche"
+      },
+      "subtitle": {
+        "fr": "Services 360",
+        "en": "360 services"
+      }
+    },
+    {
+      "src": "/static/clients/psa-groupe.svg",
+      "title": {
+        "fr": "PSA Groupe",
+        "en": "PSA Group"
+      },
+      "subtitle": {
+        "fr": "Intranet",
+        "en": "Intranet"
+      }
+    },
+    {
+      "src": "/static/clients/societe-generale.svg",
+      "title": {
+        "fr": "Société Générale",
+        "en": "Société Générale"
+      },
+      "subtitle": {
+        "fr": "Fraude bancaire",
+        "en": "Bank fraud"
+      }
+    },
+    {
+      "src": "/static/clients/thalassa.svg",
+      "title": {
+        "fr": "Thalassa",
+        "en": "Thalassa"
+      },
+      "subtitle": {
+        "fr": "Mon activateur de bien-être",
+        "en": "My wellness enhancer"
+      }
+    },
+    {
+      "src": "/static/clients/toyota.svg",
+      "title": {
+        "fr": "Toyota",
+        "en": "Toyota"
+      },
+      "subtitle": {
+        "fr": "Programme services financiers",
+        "en": "Financial services program"
+      }
+    },
+    {
+      "src": "/static/clients/visa.svg",
+      "title": {
+        "fr": "Visa Global",
+        "en": "Visa Global"
+      },
+      "subtitle": {
+        "fr": "Services de conciergerie",
+        "en": "Concierge services"
+      }
+    }
+  ]
+}

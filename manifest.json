@@ -1,7 +1,7 @@
 {
   "name": "Mad/Studio",
   "short_name": "Mad/Studio",
-  "start_url": "",
+  "start_url": "/",
   "display": "minimal-ui",
   "background_color": "#333333",
   "description": "The human sized design studio",

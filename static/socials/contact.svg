@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Social Networks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,5.83333333 C14,10.8736979 7,14 7,14 L7,11.6666667 C3.13458791,11.6666667 0,9.05533883 0,5.83333333 C0,2.61132842 3.13458791,0 7,0 C10.8654121,0 14,2.61132842 14,5.83333333 Z M7.61523642,2.61089988 L5.40526011,8.68275989 L6.92322512,9.23525397 L9.13320143,3.16339396 L7.61523642,2.61089988 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-Social-Networks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Facebook">
+            <g id="Icons-/-Contact" transform="translate(8.000000, 8.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Path-2" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colors-/-White" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Rectangle-3" x="0" y="0" width="14" height="14"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
